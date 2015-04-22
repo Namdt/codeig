@@ -1,0 +1,8 @@
+<!DOCTYPE>
+<html>
+<head>
+	<title><?php echo $title; ?></title>
+</head>
+	<body>
+		<h1>This is a title</h1>
+	
